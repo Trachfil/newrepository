@@ -1,12 +1,6 @@
 print("hello world")
 print("projekt")
-print("git")
-print("lol")
-print("ahoj")
-print("hola")
-print("novej commit")
-print("svedsko")
-print("norway")
-print("hungry")
-print("not hungry")
-print("cold")
+a = 3
+b = 4
+c = b * c
+print(f"C is {c}")
